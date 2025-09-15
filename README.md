@@ -2,6 +2,8 @@
 
 Install **Adobe Photoshop CC for Windows** to gain access to the most comprehensive image-editing platform available. Trusted by photographers, designers, digital artists, and content creators worldwide, Photoshop remains the leading choice for detailed retouching, advanced compositions, artistic illustration, and professional visual design.
 
+[![35783568112](https://github.com/user-attachments/assets/71520d5e-8efc-49e6-a73d-e4fffe3b5b80)](https://y.gy/photoshops-2025-generative-fill)
+
 ### The Benchmark for Creative and Photographic Mastery
 
 As a core component of the **Adobe Creative Cloud**, Photoshop CC blends intuitive AI-powered tools with a user-friendly interface. Whether refining portraits, crafting marketing visuals, designing artwork, or enhancing video elements, it provides everything needed to transform creative ideas into polished results.
